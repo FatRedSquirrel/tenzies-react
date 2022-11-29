@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/tenzies-react/static/css/main.71e4f8f3.css",
-    "main.js": "/tenzies-react/static/js/main.f3a47147.js",
+    "main.css": "/tenzies-react/static/css/main.3fef2082.css",
+    "main.js": "/tenzies-react/static/js/main.e3013d3c.js",
+    "static/media/dice-6.svg": "/tenzies-react/static/media/dice-6.5493a28ce6893ab95cf1.svg",
+    "static/media/dice-5.svg": "/tenzies-react/static/media/dice-5.e38daba3fcb0b1ab51c2.svg",
+    "static/media/dice-4.svg": "/tenzies-react/static/media/dice-4.5be595f28d09f4086ec0.svg",
+    "static/media/dice-3.svg": "/tenzies-react/static/media/dice-3.a6992c1edde8156c7856.svg",
+    "static/media/dice-2.svg": "/tenzies-react/static/media/dice-2.116f2eea5760003bc34a.svg",
+    "static/media/dice-1.svg": "/tenzies-react/static/media/dice-1.f54ecf1aca8a5d91c43e.svg",
     "index.html": "/tenzies-react/index.html",
-    "main.71e4f8f3.css.map": "/tenzies-react/static/css/main.71e4f8f3.css.map",
-    "main.f3a47147.js.map": "/tenzies-react/static/js/main.f3a47147.js.map"
+    "main.3fef2082.css.map": "/tenzies-react/static/css/main.3fef2082.css.map",
+    "main.e3013d3c.js.map": "/tenzies-react/static/js/main.e3013d3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.71e4f8f3.css",
-    "static/js/main.f3a47147.js"
+    "static/css/main.3fef2082.css",
+    "static/js/main.e3013d3c.js"
   ]
 }
